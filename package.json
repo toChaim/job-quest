@@ -1,0 +1,31 @@
+{
+  "name": "job-quest",
+  "version": "1.0.0",
+  "description": "A front end for a job search tracker website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toChaim/job-quest.git"
+  },
+  "keywords": [
+    "Job",
+    "Search",
+    "Tracker"
+  ],
+  "author": "Chaim Finkelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toChaim/job-quest/issues"
+  },
+  "homepage": "https://github.com/toChaim/job-quest#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+    "bootstrap": "^4.1.2",
+    "popper.js": "^1.14.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
